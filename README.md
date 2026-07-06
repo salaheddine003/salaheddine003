@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,55:22C55E,100:F97316&text=Salah%20Eddine&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=44&desc=Data%20Engineering%20%7C%20DevOps%20%7C%20AI%20Automation&descAlign=50&descAlignY=62">
+  <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,55:22C55E,100:F97316&text=Salaheddine%20abbar&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=44&desc=Data%20Engineering%20%7C%20DevOps%20%7C%20AI%20Automation&descAlign=50&descAlignY=62">
 </p>
 
 <p align="center">
