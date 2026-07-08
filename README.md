@@ -86,62 +86,62 @@ Le portfolio suit une progression logique: bases de programmation, applications 
 
 | Projet | Categorie | Competences |
 | --- | --- | --- |
-| Python Fundamentals | Python | variables, conditions, boucles, fonctions, fichiers |
-| Java OOP | Java | classes, heritage, encapsulation, collections |
-| HTML/CSS Portfolio | Web | pages responsives, layout, composants visuels |
-| SQL Basics | Bases de donnees | SELECT, JOIN, GROUP BY, modelisation simple |
-| File Management System | Python | gestion de fichiers, CSV/JSON, automatisation CLI |
+| [Python Fundamentals](https://github.com/salaheddine003/python-fundamentals) | Python | variables, conditions, boucles, fonctions, fichiers |
+| [Java OOP](https://github.com/salaheddine003/java-oop) | Java | classes, heritage, encapsulation, collections |
+| [HTML/CSS Portfolio](https://github.com/salaheddine003/html-css-portfolio) | Web | pages responsives, layout, composants visuels |
+| [SQL Basics](https://github.com/salaheddine003/sql-basics) | Bases de donnees | SELECT, JOIN, GROUP BY, modelisation simple |
+| [File Management System](https://github.com/salaheddine003/file-management-system) | Python | gestion de fichiers, CSV/JSON, automatisation CLI |
 
 ### 2022 - Applications
 
 | Projet | Categorie | Competences |
 | --- | --- | --- |
-| Weather App | Web | API REST, JavaScript, affichage dynamique |
-| Student Management System | Java | CRUD, architecture simple, persistence fichier ou SQL |
-| REST API Java Spring Boot | Backend | controllers, services, DTO, endpoints REST |
-| Data Analysis avec Pandas | Data Science | nettoyage, aggregation, graphiques, insights |
-| Dashboard avec Power BI | Business Intelligence | KPI, visualisation, storytelling data |
+| [Weather App](https://github.com/salaheddine003/weather-app) | Web | API REST, JavaScript, affichage dynamique |
+| [Student Management System](https://github.com/salaheddine003/student-management-system) | Java | CRUD, architecture simple, persistence fichier ou SQL |
+| [REST API Java Spring Boot](https://github.com/salaheddine003/rest-api-java-spring-boot) | Backend | controllers, services, DTO, endpoints REST |
+| [Data Analysis avec Pandas](https://github.com/salaheddine003/data-analysis-pandas) | Data Science | nettoyage, aggregation, graphiques, insights |
+| [Dashboard avec Power BI](https://github.com/salaheddine003/power-bi-dashboard) | Business Intelligence | KPI, visualisation, storytelling data |
 
 ### 2023 - Data et Machine Learning
 
 | Projet | Categorie | Competences |
 | --- | --- | --- |
-| Machine Learning Classification | Data Science | preprocessing, entrainement, evaluation, matrice de confusion |
-| Data Cleaning Pipeline | Data Engineering | regles qualite, validation, tests |
-| ETL avec Python | Data Engineering | extraction CSV, transformation pandas, chargement SQL |
-| Web Scraping | Python | requests, BeautifulSoup, export CSV |
-| Flask API | Backend | routes, JSON, validation, structure API |
-| Docker Basics | DevOps | Dockerfile, docker-compose, environnement reproductible |
+| [Machine Learning Classification](https://github.com/salaheddine003/machine-learning-classification) | Data Science | preprocessing, entrainement, evaluation, matrice de confusion |
+| [Data Cleaning Pipeline](https://github.com/salaheddine003/data-cleaning-pipeline) | Data Engineering | regles qualite, validation, tests |
+| [ETL avec Python](https://github.com/salaheddine003/etl-python) | Data Engineering | extraction CSV, transformation pandas, chargement SQL |
+| [Web Scraping](https://github.com/salaheddine003/web-scraping) | Python | requests, BeautifulSoup, export CSV |
+| [Flask API](https://github.com/salaheddine003/flask-api) | Backend | routes, JSON, validation, structure API |
+| [Docker Basics](https://github.com/salaheddine003/docker-basics) | DevOps | Dockerfile, docker-compose, environnement reproductible |
 
 ### 2024 - IA appliquee et Big Data
 
 | Projet | Categorie | Competences |
 | --- | --- | --- |
-| Chatbot IA | Intelligence Artificielle | intents simples, API, interface conversationnelle |
-| Recommandation de films | Data Science | similarite, filtrage, scoring |
-| Analyse des sentiments | NLP | preprocessing texte, classification, evaluation |
-| Data Warehouse | Bases de donnees | schema etoile, dimensions, faits, SQL analytique |
-| Pipeline Apache Airflow | Data Engineering | DAG, scheduling, orchestration |
-| Spark Data Processing | Big Data | PySpark, transformations, Parquet |
-| Tableau Dashboard | Business Intelligence | dashboard analytique, filtres, indicateurs |
-| FastAPI Project | Backend | Pydantic, endpoints, tests API |
+| [Chatbot IA](https://github.com/salaheddine003/ai-chatbot) | Intelligence Artificielle | intents simples, API, interface conversationnelle |
+| [Recommandation de films](https://github.com/salaheddine003/movie-recommendation) | Data Science | similarite, filtrage, scoring |
+| [Analyse des sentiments](https://github.com/salaheddine003/sentiment-analysis) | NLP | preprocessing texte, classification, evaluation |
+| [Data Warehouse](https://github.com/salaheddine003/data-warehouse) | Bases de donnees | schema etoile, dimensions, faits, SQL analytique |
+| [Pipeline Apache Airflow](https://github.com/salaheddine003/airflow-pipeline) | Data Engineering | DAG, scheduling, orchestration |
+| [Spark Data Processing](https://github.com/salaheddine003/spark-data-processing) | Big Data | PySpark, transformations, Parquet |
+| [Tableau Dashboard](https://github.com/salaheddine003/tableau-dashboard) | Business Intelligence | dashboard analytique, filtres, indicateurs |
+| [FastAPI Project](https://github.com/salaheddine003/fastapi-project) | Backend | Pydantic, endpoints, tests API |
 
 ### 2025 - IA moderne et plateformes data
 
 | Projet | Categorie | Competences |
 | --- | --- | --- |
-| LLM Chatbot | Intelligence Artificielle | LLM API, prompt engineering, FastAPI |
-| RAG Application | Intelligence Artificielle | embeddings, recherche vectorielle, documents |
-| LangChain Project | Intelligence Artificielle | chains, tools, agents |
-| Computer Vision | IA / Vision | OpenCV, classification, evaluation |
-| OCR avec Python | IA / OCR | extraction texte, preprocessing image |
-| NLP Project | NLP | classification texte, pipeline NLP |
-| MLOps Pipeline | MLOps | MLflow, Docker, CI, suivi d'experiences |
-| Data Lake Project | Data Engineering | zones raw/silver/gold, Parquet, Spark |
-| Azure Data Factory | Cloud Data | pipelines ADF, ingestion, orchestration |
-| Kafka Streaming | Streaming | producer, consumer, flux temps reel |
-| Kubernetes Demo | DevOps | manifests, deployment, service |
-| CI/CD GitHub Actions | DevOps | tests automatiques, lint, workflow CI |
+| [LLM Chatbot](https://github.com/salaheddine003/llm-chatbot) | Intelligence Artificielle | LLM API, prompt engineering, FastAPI |
+| [RAG Application](https://github.com/salaheddine003/rag-application) | Intelligence Artificielle | embeddings, recherche vectorielle, documents |
+| [LangChain Project](https://github.com/salaheddine003/langchain-project) | Intelligence Artificielle | chains, tools, agents |
+| [Computer Vision](https://github.com/salaheddine003/computer-vision) | IA / Vision | OpenCV, classification, evaluation |
+| [OCR avec Python](https://github.com/salaheddine003/ocr-python) | IA / OCR | extraction texte, preprocessing image |
+| [NLP Project](https://github.com/salaheddine003/nlp-project) | NLP | classification texte, pipeline NLP |
+| [MLOps Pipeline](https://github.com/salaheddine003/mlops-pipeline) | MLOps | MLflow, Docker, CI, suivi d'experiences |
+| [Data Lake Project](https://github.com/salaheddine003/data-lake-project) | Data Engineering | zones raw/silver/gold, Parquet, Spark |
+| [Azure Data Factory](https://github.com/salaheddine003/azure-data-factory) | Cloud Data | pipelines ADF, ingestion, orchestration |
+| [Kafka Streaming](https://github.com/salaheddine003/kafka-streaming) | Streaming | producer, consumer, flux temps reel |
+| [Kubernetes Demo](https://github.com/salaheddine003/kubernetes-demo) | DevOps | manifests, deployment, service |
+| [CI/CD GitHub Actions](https://github.com/salaheddine003/ci-cd-github-actions) | DevOps | tests automatiques, lint, workflow CI |
 
 Catalogue detaille et descriptions de depots: [PROJECT_PORTFOLIO_2021_2025.md](PROJECT_PORTFOLIO_2021_2025.md)
 
@@ -198,3 +198,4 @@ MIT License. See [LICENSE](LICENSE).
 <p align="center">
   <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,45:2563EB,100:7C3AED">
 </p>
+
